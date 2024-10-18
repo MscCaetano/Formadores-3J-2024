@@ -1,13 +1,12 @@
 body{
     background-color: black;
     color:white;
-    
 }
 div {
-    background-color: blue;
+    background-color: rgb(251, 255, 0);
     margin: 50;
     border: 50;
     position: inherit;
     padding-left: 100px;
-    padding-botton: 100px;
+    flex-content: 100px;
 }
