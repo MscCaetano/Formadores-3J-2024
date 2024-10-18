@@ -6,5 +6,6 @@ div {
     background-color: blue;
     margin: 50;
     border: 50;
+    position: inherit;
     
 }
