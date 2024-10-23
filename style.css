@@ -11,10 +11,7 @@ section {
     justify-content: center;
 }
 
-div{
-    margin-right: 20px;
-}
 
-.chamada.texto{
-    color: blue;
+.chamada_texto{
+    margin-left: 5%;
 }
