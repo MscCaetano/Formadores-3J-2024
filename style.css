@@ -6,10 +6,10 @@ body{
 
 section {
     background:rgb(255, 0, 0);
-    padding-top: 30px;
-    padding-bottom:30px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-top: 5%;
+    padding-bottom:5%;
+    padding-left: 5%;
+    padding-right: 5%;
     display: flex;
     justify-content: center;
 }
