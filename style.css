@@ -1,6 +1,6 @@
 body{
     background-color: purple;
-    color:rgb(0,0,0);
+    color: #cfcfcf;;
 }
 
 section {
@@ -14,7 +14,7 @@ section {
 
 .chamada_texto{
     margin-right: 5%;
-    color: rgb(0, 0, 0);
+    color: #cfcfcf;
 }
 .video{
     border-radius= 50px;
