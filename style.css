@@ -1,10 +1,10 @@
 body{
-    background-color: green;
-    color:rgb(10, 33, 236);
+    background-color: purple;
+    color:rgb(0,0,0);
 }
 
 section {
-    background:rgb(223, 138, 213);
+    background:rgb(255, 255, 255);
     padding-top: 30px;
     padding-bottom:30px ;
     display: flex;
@@ -14,7 +14,7 @@ section {
 
 .chamada_texto{
     margin-right: 5%;
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 .video{
     border-radius= 50px;
