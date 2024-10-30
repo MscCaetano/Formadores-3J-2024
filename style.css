@@ -22,3 +22,7 @@ section {
 .video{
     border-radius= 50px;
 }
+
+img{
+    height: 200px;
+}
