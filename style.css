@@ -5,7 +5,7 @@ body{
 }
 
 section {
-    background:rgb(255, 0, 0);
+    background:#FF6D5E;
     padding-top: 5%;
     padding-bottom:5%;
     padding-left: 5%;
@@ -17,7 +17,7 @@ section {
 
 .chamada_texto{
     margin-right: 5%;
-    color: #1e00ff;
+    color: #000000;
 }
 .video{
     border-radius= 50px;
