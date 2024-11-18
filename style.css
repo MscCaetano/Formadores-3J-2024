@@ -8,13 +8,12 @@ section {
     background:#FF6D5E;
     padding-top: 1px;
     padding-bottom:1px;
-    padding-left: 1px;
-    padding-right: 1px;
+    padding-left: 20px;
+    padding-right: 20px;
     display: flex;
     justify-content: center;
     
 }
-
 
 .chamada_texto{
     margin-right: 5%;
