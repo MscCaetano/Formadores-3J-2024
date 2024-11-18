@@ -7,10 +7,7 @@ body{
 
 section {
     background:#FF6D5E;
-    padding-top: 5%;
-    padding-bottom:3%;
-    padding-left: 7%;
-    padding-right: 7%;
+    padding: 0%;
     display: flex;
     justify-content: center;
     
