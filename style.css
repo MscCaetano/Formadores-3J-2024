@@ -15,6 +15,7 @@ section {
     
 }
 .chamada {
+    background:#050100;
     padding-bottom:20px;
     padding-left: 20px;
 }
@@ -31,7 +32,7 @@ img{
     height: 200px;
 }
 .categoria{
-    
+
 }
 .categoria-videos{
     display: flex;
