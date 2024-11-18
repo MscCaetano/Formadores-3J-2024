@@ -8,8 +8,8 @@ section {
     background:#FF6D5E;
     padding-top: 1px;
     padding-bottom:1px;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 1px;
+    padding-right: 1px;
     display: flex;
     justify-content: center;
     
@@ -31,4 +31,9 @@ img{
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+
+.chamada {
+    padding-bottom:20px;
+    padding-left: 20px;
 }
