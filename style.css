@@ -14,6 +14,10 @@ section {
     justify-content: center;
     
 }
+.chamada {
+    padding-bottom:20px;
+    padding-left: 20px;
+}
 
 .chamada_texto{
     margin-right: 5%;
@@ -26,14 +30,12 @@ section {
 img{
     height: 200px;
 }
-
+.categoria{
+    
+}
 .categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
 
-.chamada {
-    padding-bottom:20px;
-    padding-left: 20px;
-}
